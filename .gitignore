@@ -1,0 +1,11 @@
+# 编译产物
+go-learn
+*.exe
+
+# IDE
+.vscode/
+.idea/
+
+# 系统文件
+.DS_Store
+Thumbs.db
